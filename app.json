@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "uplifting-milkshake",
+    "slug": "snack-5a6f4d51-8128-4726-bdff-bc1bc767785a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.docttor444.snack5a6f4d5181284726bdffbc1bc767785a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "985c803e-7d06-4114-b84a-2845bdb30a0b"
+      }
+    }
+  }
+}
